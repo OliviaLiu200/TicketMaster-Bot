@@ -1,0 +1,17 @@
+{
+    "name": "ticketmaster-prices-tracking-and-notification",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Olivia Liu",
+    "license": "ISC",
+    "dependencies": {
+      "cheerio": "1.0.0-rc.12",
+      "cron": "2.1.0",
+      "nodemailer": "6.7.8",
+      "puppeteer": "17.1.3"
+    }
+  }
